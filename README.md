@@ -1,10 +1,6 @@
 # conjam
 
-Repo to contain all things conjam
-
-# Jam Description
-
-Create a game based on cellular automata algorithms
+create a game based on cellular automata algorithms
 
 # Inspiration
 
