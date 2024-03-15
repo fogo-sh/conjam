@@ -12,7 +12,7 @@ Create a game based on cellular automata algorithms
 - Noita
 - The Powder Game/Falling Sands
 - Conway's Game of Life
-- [Sandspiel](https://sandspiel.club/) - [GitHub](https://github.com/MaxBittker/sandspiel)
+- [Sandspiel](https://sandspiel.club/) - "falling sand game built in rust (via wasm), webgl, and some JS glueing things together." - [GitHub](https://github.com/MaxBittker/sandspiel)
 
 # Videos:
 - Noita Sand Simulation in C and OpenGL
