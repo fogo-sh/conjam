@@ -2,7 +2,7 @@
 
 create a game based on cellular automata algorithms
 
-# Inspiration
+# inspiration
 
 - ["Falling-sand game" Genre](https://en.wikipedia.org/wiki/Falling-sand_game)
 - [Liero](https://www.liero.be/)
@@ -11,7 +11,7 @@ create a game based on cellular automata algorithms
 - [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 - [Sandspiel](https://sandspiel.club/) - "falling sand game built in rust (via wasm), webgl, and some JS glueing things together." - [GitHub](https://github.com/MaxBittker/sandspiel)
 
-# Videos:
+# videos
 
 - [Noita Sand Simulation in C and OpenGL](https://www.youtube.com/watch?v=VLZjd_Y1gJ8)
 - [Noita GDC Talk](https://www.youtube.com/watch?v=prXuyMCgbTc)
